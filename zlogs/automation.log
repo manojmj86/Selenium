@@ -1,0 +1,12 @@
+21:57:18.971 [main] INFO  testCases.TC01_LoginTest - **** Test Start ****
+21:57:19.140 [main] INFO  testCases.TC01_LoginTest - Action--> Click Login button
+21:57:19.399 [main] INFO  testCases.TC01_LoginTest - <Assertion>
+22:01:53.390 [main] INFO  testCases.TC01_LoginTest - **** Test Start **** 
+22:01:53.549 [main] INFO  testCases.TC01_LoginTest - Action--> Click Login button
+22:01:53.813 [main] INFO  testCases.TC01_LoginTest - <Assertion>
+22:18:01.953 [main] INFO  testCases.TC01_LoginTest - **** Test Start **** 
+22:18:02.118 [main] INFO  testCases.TC01_LoginTest - Action--> Click Login button
+22:18:02.379 [main] INFO  testCases.TC01_LoginTest - <Assertion>
+22:18:27.335 [main] INFO  testCases.TC01_LoginTest - **** Test Start **** 
+22:18:27.488 [main] INFO  testCases.TC01_LoginTest - Action--> Click Login button
+22:18:27.749 [main] INFO  testCases.TC01_LoginTest - <Assertion>
