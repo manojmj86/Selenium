@@ -10,3 +10,6 @@
 22:18:27.335 [main] INFO  testCases.TC01_LoginTest - **** Test Start **** 
 22:18:27.488 [main] INFO  testCases.TC01_LoginTest - Action--> Click Login button
 22:18:27.749 [main] INFO  testCases.TC01_LoginTest - <Assertion>
+00:16:59.983 [main] INFO  testCases.TC01_LoginTest - **** Test Start **** 
+00:17:00.165 [main] INFO  testCases.TC01_LoginTest - Action--> Click Login button
+00:17:00.434 [main] INFO  testCases.TC01_LoginTest - <Assertion>
